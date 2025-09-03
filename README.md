@@ -5,4 +5,4 @@
 
 ### 🔗 Teste online
 
-#### Você pode testar o projeto online clicando [aqui]([https://skyra18.github.io/amigo-secreto/])!  
+#### Você pode testar o projeto online clicando [aqui](https://skyra18.github.io/amigo-secreto/)!  
